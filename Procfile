@@ -1,1 +1,1 @@
-web: cabourotte
+web: cabourotte daemon --config config.yaml
