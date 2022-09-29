@@ -1,0 +1,13 @@
+{
+  "name": "mcorbin app",
+  "description": "test",
+  "logo": "https://scalingo.com/logo.svg",
+  "repository": "https://github.com/mcorbin/scalingo-test",
+  "website": "https://mcorbin.fr",
+  "formation": {
+    "web": {
+      "amount": 1,
+      "size": "S"
+    }
+  }
+}
